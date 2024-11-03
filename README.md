@@ -29,21 +29,10 @@
     </a>
 </p>
 
-### Contact me:
-<p>
-    <a href="https://www.linkedin.com/in/floydcain/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/u/cainfe636/" target="_blank">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-    </a>
-</p>
-
 ### Stats:
 <p>
     <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=cainfe&layout=compact&theme=dark" />
-    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=cainfe&show_icons=true&theme=dark" /><br><br>
-    <img height=200 align=center src="https://leetcard.jacoblin.cool/cainfe636" />
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=cainfe&show_icons=true&theme=dark" />
 </p>
 
 
@@ -116,4 +105,12 @@ I enjoy reading books daily. Some of my favorite books are:<br>
 </details>
 </details>
 <br>
-<img align=right src="https://komarev.com/ghpvc/?username=cainfe&style=flat-square&color=green" alt="Profile Views" />
+<p>
+    <a href="https://www.linkedin.com/in/floydcain/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/u/cainfe636/" target="_blank">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    </a>
+    <img align=right src="https://komarev.com/ghpvc/?username=cainfe&style=flat-square&color=green" alt="Profile Views" />
+</p>
