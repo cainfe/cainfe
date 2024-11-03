@@ -31,8 +31,8 @@
 
 ### Stats:
 <p>
-    <img width="30%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=cainfe&layout=compact&theme=dark" />
-    <img width="40%" align=center src="https://github-readme-stats.vercel.app/api?username=cainfe&show_icons=true&theme=dark" />
+    <img width="38%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=cainfe&layout=compact&theme=dark" />
+    <img width="50%" align=center src="https://github-readme-stats.vercel.app/api?username=cainfe&show_icons=true&theme=dark" />
 </p>
 
 
