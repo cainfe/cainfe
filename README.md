@@ -35,74 +35,76 @@
     <img width="55%" align=center src="https://github-readme-stats.vercel.app/api?username=cainfe&show_icons=true&theme=dark" />
 </p>
 
+## Hobbies:
+<details>
+<summary>Interested in knowing more about me?</summary>
+<h3>🎮 Playing video games</h3>
+<div align=center>
+    I enjoy playing video games in my free time. Some of my favorite games are:<br>
+    <table>
+    <tr>
+    <td>
+        <div align=center>
+            <h3>Stellaris<h3>
+            <img src="https://steamcdn-a.akamaihd.net/steam/apps/281990/library_600x900_2x.jpg" width="200" alt="Stellaris" />
+        </div>
+    </td>
+    <td>
+        <div align=center>
+            <h3>Skyrim<h3>
+            <img src="https://steamcdn-a.akamaihd.net/steam/apps/72850/library_600x900_2x.jpg" width="200" alt="Skyrim" />
+        </div>
+    </td>
+    <td>
+        <div align=center>
+            <h3>Battlefield 1<h3>
+            <img src="https://steamcdn-a.akamaihd.net/steam/apps/1238840/library_600x900_2x.jpg" width="200" alt="Battlefield 1" />
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
 
-### More about me:
-<details>
-<summary>Hobbies</summary>
+<br>
 
-<details> 
-<summary>🎮 Playing video games</summary>
-I enjoy playing video games in my free time. Some of my favorite games are:<br>
-<table>
-<tr>
-<td>
-    <div align=center>
-        Stellaris<br>
-        <img src="https://steamcdn-a.akamaihd.net/steam/apps/281990/library_600x900_2x.jpg" width="200" alt="Stellaris" />
-    </div>
-</td>
-<td>
-    <div align=center>
-        Skyrim<br>
-        <img src="https://steamcdn-a.akamaihd.net/steam/apps/72850/library_600x900_2x.jpg" width="200" alt="Skyrim" />
-    </div>
-</td>
-<td>
-    <div align=center>
-        Battlefield 1<br>
-        <img src="https://steamcdn-a.akamaihd.net/steam/apps/1238840/library_600x900_2x.jpg" width="200" alt="Battlefield 1" />
-    </div>
-</td>
-</tr>
-</table>
-</details>
+<h3>☕ Practicing my barista skills</h3>
+<div align=center>
+    I love making coffee and trying new recipes. Some of my favorite drinks are:<br>
+    <p>
+        🍵 Plain Cappuccino<br>
+        🍵 Caramel Macchiato<br>
+        🍵 Cortado
+    </p>
+</div>
+
 <br>
-<details>
-<summary>☕ Practicing my barista skills</summary>
-I love making coffee and trying new recipes. Some of my favorite drinks are:<br>
-<ul>
-    <li>🍵 Plain Cappuccino</li>
-    <li>🍵 Caramel Macchiato</li>
-    <li>🍵 Cortado</li> 
-</ul>
-</details>
-<br>
-<details>
-<summary>📚 Reading books</summary>
-I enjoy reading books daily. Some of my favorite books are:<br>
-<table>
-<tr>
-<td>
-    <div align=center>
-        The Pragmatic Programmer<br>
-        <img src="https://books.google.com/books/content?id=LhOlDwAAQBAJ&printsec=frontcover&img=1&source=gbs_api" width="200" alt="The Pragmatic Programmer" />
-    </div>
-</td>
-<td>
-    <div align=center>
-        The Clean Coder<br>
-        <img src="https://books.google.com/books/content?id=VQlvAQAAQBAJ&printsec=frontcover&img=1&source=gbs_api" width="200" alt="Clean Code" />
-    </div>
-</td>
-<td>
-    <div align=center>
-        Dune<br>
-        <img src="https://books.google.com/books/content?id=nrRKDwAAQBAJ&printsec=frontcover&img=1&source=gbs_api" width="200" alt="Dune" />
-    </div>
-</td>
-</tr>
-</table>
-</details>
+
+<h3>📚 Reading books</h3>
+<div align=center>
+    I enjoy reading books daily. Some of my favorite books are:<br>
+    <table>
+    <tr>
+    <td>
+        <div align=center>
+            <h3>The Pragmatic Programmer</h3>
+            <img src="https://books.google.com/books/content?id=LhOlDwAAQBAJ&printsec=frontcover&img=1&source=gbs_api" width="200" alt="The Pragmatic Programmer" />
+        </div>
+    </td>
+    <td>
+        <div align=center>
+            <h3>The Clean Coder</h3>
+            <img src="https://books.google.com/books/content?id=VQlvAQAAQBAJ&printsec=frontcover&img=1&source=gbs_api" width="200" alt="Clean Code" />
+        </div>
+    </td>
+    <td>
+        <div align=center>
+            <h3>Dune</h3>
+            <img src="https://books.google.com/books/content?id=nrRKDwAAQBAJ&printsec=frontcover&img=1&source=gbs_api" width="200" alt="Dune" />
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
 </details>
 <br>
 <p>
