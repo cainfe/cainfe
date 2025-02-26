@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 🔭 I'm currently working on a [desktop task manager](https://github.com/cainfe/TaskManager).
+- 🔭 I'm currently working on a [coffee brew log web app](https://github.com/cainfe/brew-book).
 - 🌱 I'm currently learning PHP.
 
 ### Languages and Tools:
